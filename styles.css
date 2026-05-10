@@ -1,10 +1,10 @@
 :root {
     --beige: #F4F1E9;
     --beige-dark: #E4DCCB;
-    --blue: #2A4858;
-    --blue-dark: #1C3341;
-    --text-primary: #333333;
-    --text-secondary: #555555;
+    --blue: #555555;      /* Gris oscuro principal */
+    --blue-dark: #333333; /* Gris casi negro profundo */
+    --text-primary: #222222;
+    --text-secondary: #666666;
     --white: #FFFFFF;
 }
 
